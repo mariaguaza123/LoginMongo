@@ -1,0 +1,231 @@
+{
+	"entities": {
+		"listProducts": {
+			"undefined": {
+				"0": {
+					"id": "357fc415-671d-4810-a7c0-215f1472669f",
+					"nameProduct": "Generic Plastic Keyboard",
+					"price": "100.00",
+					"stock": 78257,
+					"brand": {
+						"id": "37432183-e52b-4cb5-8127-8f7a0fc9acde",
+						"brandName": "Klocko - Corwin"
+					},
+					"sizes": [
+						{
+							"id": "cc5d43e6-842d-4922-93d0-dc9680d1ad59",
+							"talla": "orchestrate"
+						},
+						{
+							"id": "cc5d43e6-842d-4922-93d0-dc9680d1ad59",
+							"talla": "orchestrate"
+						},
+						{
+							"id": "cc5d43e6-842d-4922-93d0-dc9680d1ad59",
+							"talla": "orchestrate"
+						}
+					]
+				},
+				"1": {
+					"id": "ea7bebe8-0574-45f1-bebd-b1c236b7a042",
+					"nameProduct": "Intelligent Fresh Sausages",
+					"price": "100.00",
+					"stock": 3203,
+					"brand": {
+						"id": "9c8f7241-e0f1-4cac-bf13-97caef454a83",
+						"brandName": "Doyle - Champlin"
+					},
+					"sizes": [
+						{
+							"id": "defa2af5-63a2-40de-a8be-a200f57d7ba5",
+							"talla": "cultivate"
+						}
+					]
+				},
+				"2": {
+					"id": "69508a03-34fe-463d-8877-d79882d71d65",
+					"nameProduct": "Incredible Fresh Ball",
+					"price": "100.00",
+					"stock": 64249,
+					"brand": {
+						"id": "6aaf688e-77f4-4528-bfce-f523e4283271",
+						"brandName": "Moore - Bradtke"
+					},
+					"sizes": [
+						{
+							"id": "e1a9d188-b51a-458c-9a11-d7a782bc3646",
+							"talla": "target"
+						},
+						{
+							"id": "e1a9d188-b51a-458c-9a11-d7a782bc3646",
+							"talla": "target"
+						}
+					]
+				},
+				"3": {
+					"id": "5d7498c6-44dd-4c24-b957-0382ffdfe9af",
+					"nameProduct": "Incredible Wooden Car",
+					"price": "100.00",
+					"stock": 3144,
+					"brand": {
+						"id": "8b8a171f-573f-42e3-b6cf-145a8bcba236",
+						"brandName": "Ferry Group"
+					},
+					"sizes": [
+						{
+							"id": "dd457fa8-eda0-4184-9d27-ad70b5b115dc",
+							"talla": "utilize"
+						}
+					]
+				},
+				"4": {
+					"id": "3a6abcf3-da28-4cd2-9ccb-aca790622dcc",
+					"nameProduct": "Tasty Metal Hat",
+					"price": "100.00",
+					"stock": 49925,
+					"brand": {
+						"id": "8d7b1686-e654-4c43-bb11-291a5d0c0d2f",
+						"brandName": "DuBuque, Carter and Sporer"
+					},
+					"sizes": [
+						{
+							"id": "dbe5d988-02f1-458d-8daa-c9f07e535cc5",
+							"talla": "repurpose"
+						},
+						{
+							"id": "dbe5d988-02f1-458d-8daa-c9f07e535cc5",
+							"talla": "repurpose"
+						},
+						{
+							"id": "dbe5d988-02f1-458d-8daa-c9f07e535cc5",
+							"talla": "repurpose"
+						}
+					]
+				},
+				"5": {
+					"id": "30f07e67-f795-4808-842f-b60fdaea9934",
+					"nameProduct": "Small Rubber Keyboard",
+					"price": "100.00",
+					"stock": 46701,
+					"brand": {
+						"id": "1f70f796-88e8-4790-980a-a6296a23c43c",
+						"brandName": "Conn, Hills and Legros"
+					},
+					"sizes": [
+						{
+							"id": "ff2445cf-8cbb-40ba-8244-3296e8a9ebb1",
+							"talla": "mesh"
+						},
+						{
+							"id": "ff2445cf-8cbb-40ba-8244-3296e8a9ebb1",
+							"talla": "mesh"
+						},
+						{
+							"id": "ff2445cf-8cbb-40ba-8244-3296e8a9ebb1",
+							"talla": "mesh"
+						}
+					]
+				},
+				"6": {
+					"id": "c07d4945-acd2-4971-97ab-ade6ee2143a1",
+					"nameProduct": "Fantastic Frozen Shoes",
+					"price": "100.00",
+					"stock": 4115,
+					"brand": {
+						"id": "82aa729b-4cbd-45ca-8dc7-504e7f6fcd42",
+						"brandName": "Heaney LLC"
+					},
+					"sizes": [
+						{
+							"id": "f80b3d1e-56f8-4afa-a908-db74f5e765a8",
+							"talla": "incentivize"
+						},
+						{
+							"id": "f80b3d1e-56f8-4afa-a908-db74f5e765a8",
+							"talla": "incentivize"
+						},
+						{
+							"id": "f80b3d1e-56f8-4afa-a908-db74f5e765a8",
+							"talla": "incentivize"
+						}
+					]
+				},
+				"7": {
+					"id": "1ec87c31-068a-46df-b051-5dc3bfa73889",
+					"nameProduct": "Licensed Steel Towels",
+					"price": "100.00",
+					"stock": 66339,
+					"brand": {
+						"id": "27227f24-4849-4293-8b2e-00a721accb1f",
+						"brandName": "Koelpin - Mayer"
+					},
+					"sizes": [
+						{
+							"id": "e09e2b17-e03d-4c18-94fe-d94d54959069",
+							"talla": "e-enable"
+						},
+						{
+							"id": "e09e2b17-e03d-4c18-94fe-d94d54959069",
+							"talla": "e-enable"
+						},
+						{
+							"id": "e09e2b17-e03d-4c18-94fe-d94d54959069",
+							"talla": "e-enable"
+						}
+					]
+				},
+				"8": {
+					"id": "47648418-86ed-40ed-bb64-d6d9bcacd2c3",
+					"nameProduct": "Unbranded Granite Pants",
+					"price": "100.00",
+					"stock": 26676,
+					"brand": {
+						"id": "5d7ea539-8cd8-4b55-a9db-f4be1abf5d60",
+						"brandName": "Hintz - Kling"
+					},
+					"sizes": [
+						{
+							"id": "c2363483-1577-41a4-8556-af159ba3636a",
+							"talla": "revolutionize"
+						},
+						{
+							"id": "c2363483-1577-41a4-8556-af159ba3636a",
+							"talla": "revolutionize"
+						},
+						{
+							"id": "c2363483-1577-41a4-8556-af159ba3636a",
+							"talla": "revolutionize"
+						}
+					]
+				},
+				"9": {
+					"id": "a0004a49-7651-4e77-af45-87ea6f728c6b",
+					"nameProduct": "Fantastic Rubber Mouse",
+					"price": "100.00",
+					"stock": 51718,
+					"brand": {
+						"id": "81bc093b-e974-470b-9322-3112df9c1e51",
+						"brandName": "Treutel Inc"
+					},
+					"sizes": [
+						{
+							"id": "a2ec86e7-f0fa-431d-bc74-94b989654dba",
+							"talla": "architect"
+						},
+						{
+							"id": "a2ec86e7-f0fa-431d-bc74-94b989654dba",
+							"talla": "architect"
+						},
+						{
+							"id": "a2ec86e7-f0fa-431d-bc74-94b989654dba",
+							"talla": "architect"
+						}
+					]
+				}
+			}
+		}
+	},
+	"result": [
+		null
+	]
+}
